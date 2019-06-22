@@ -1,1 +1,1 @@
-An app made with react javascript to search github users
+An app made with react using context api to search github users
